@@ -10,6 +10,7 @@ Prerequisites
 * XercesC
 * CLHEP
 * GEANT4.9.6p02
+* For polarised targets the magnetic field map (transverse only) is here ( http://www.ph.ed.ac.uk/nuclear/G4/wouter_field_map.dat  ).
 
 Installation
 ------------
