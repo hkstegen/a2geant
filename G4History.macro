@@ -40,3 +40,5 @@
 /gui/addButton viewer "Set View Slice Top" "/vis/viewer/addCutawayPlane 0 0 0 cm 0 -1 0"
 /gui/addMenu movie Movie
 /gui/addButton movie "RayTracer movie" "/control/execute macros/RayTracer_movie.mac"
+/vis/viewer/addCutawayPlane 0 0 0 cm 1 0 0
+/vis/viewer/refresh
